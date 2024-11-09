@@ -4,6 +4,7 @@ import logging
 import pyrogram
 import time
 import math
+from info import *
 from decouple import config
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
