@@ -10,7 +10,7 @@ from pyrogram import Client
 import telegram
 import logging
 import json
-
+from info import *
 from typing import Optional, List
 from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
 from telegram import TelegramError
